@@ -5,13 +5,13 @@ Felinos </font><br><img src="file:///C:/Users/Onesi/Desktop/html/f.jpg" height="
   
 <hr>
 <p><font color="#EC7063"> 
-<h2><u><font color="#EC7063 ">¿Que es un Felino?</font></u></h2><br>
+<h2><u><font color="#2ECC71 ">¿Que es un Felino?</font></u></h2><br>
 <h3>Los félidos o comúnmente llamados felinos son una 
 familia de mamíferos placentarios del orden Carnivora.<br>
 La mayoría consume exclusivamente carne e ignora cualquier otra comida 
 que no sea una presa viva.<br><img src="1.jpg" height="157.5" width="175" /></h3>
 
-<p><h2><u><font color="#EC7063 ">¿Cuales son los rasgos caracteristocos de los Felinos?</font></u></h2><br>
+<p><h2><u><font color="#2ECC71">¿Cuales son los rasgos caracteristocos de los Felinos?</font></u></h2><br>
 <h3>
 Poseen un cuerpo esbelto, oído agudo, hocico corto y excelente vista.<br>
 Son los mamíferos cazadores más sigilosos
