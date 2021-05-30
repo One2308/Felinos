@@ -1,7 +1,7 @@
 <html>
 <body bgcolor="#EC7063">
 <h1 align="center"> <font face="Comic Sans MS,Arial,Verdana"><font color="#EC7063"> 
-Felinos </font><br><img src="file:///C:/Users/Onesi/Desktop/html/f.jpg" height="200" width="400" /><br><img src="T.jpg" height="209" width="313.3" />
+Felinos </font><br><img src="f.jpg" height="200" width="400" /><br><img src="T.jpg" height="209" width="313.3" />
   
 <hr>
 <p><font color="#EC7063"> 
