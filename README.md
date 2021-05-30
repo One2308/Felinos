@@ -1,8 +1,9 @@
 <html>
-<body bgcolor="black">
+<body bgcolor="#AF7AC5">
 <h1 align="center"> <font face="Comic Sans MS,Arial,Verdana"><font color="#AF7AC5"> 
-Felinos </font><br><img src="file:///C:/Users/Onesi/Desktop/html/f.jpg" height="200" width="400" /><br><img src="T.jpg" height="209" width="313.3" /></h1></P>
-
+Felinos </font><br><img src="file:///C:/Users/Onesi/Desktop/html/f.jpg" height="200" width="400" /><br><img src="T.jpg" height="209" width="313.3" />
+</h1>
+  
 <hr>
 <p><font color="#FDFEFE"> 
 <h2><u><font color="#2ECC71 ">¿Que es un Felino?</font></u></h2><br>
