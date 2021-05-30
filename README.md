@@ -9,7 +9,7 @@ Felinos </font><br><img src="file:///C:/Users/Onesi/Desktop/html/f.jpg" height="
 <h3>Los félidos o comúnmente llamados felinos son una 
 familia de mamíferos placentarios del orden Carnivora.<br>
 La mayoría consume exclusivamente carne e ignora cualquier otra comida 
-que no sea una presa viva.<br><img src="1.jpg" height="157.5" width="175" /></h3></p>
+que no sea una presa viva.<br><img src="1.jpg" height="157.5" width="175" /></h3>
 
 <p><h2><u><font color="#EC7063 ">¿Cuales son los rasgos caracteristocos de los Felinos?</font></u></h2><br>
 <h3>
@@ -54,5 +54,3 @@ Como curiosidad, los leones tienen la cola más larga que los tigres.</h3></p><b
 <hr>
 <p>Alumna: Veronica Castelan Baez<br> Grupo: 401</p>
 </font>
-</body>
-</html>
