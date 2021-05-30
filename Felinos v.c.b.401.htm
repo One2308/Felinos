@@ -61,5 +61,3 @@ Como curiosidad, los leones tienen la cola más larga que los tigres.</h3></p><b
 </font>
 </body>
 </html>
-
-https://htmlcolorcodes.com/es/tabla-de-colores/
